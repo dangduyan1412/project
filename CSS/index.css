@@ -57,8 +57,16 @@ section img{
     padding-left: 1%;   
     font-weight: bold;
 }
-
-
+.content li {
+    line-height: 30px;
+    list-style: none;
+}
+.content li a{
+    text-decoration: none;
+    font-style: italic;
+    color: blue;
+    
+}
 
 
 .row::after {
